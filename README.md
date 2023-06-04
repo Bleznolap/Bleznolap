@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bleznolap
-- 👀 I’m interested in Data Science/Analytics
+- 👀 I’m interested in Computational Genomics/Data Science
 - 🌱 I’m a PhD student in [Genetics and Genomics](https://www.genetics.iastate.edu/people/blessing-olabosoye)
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/blessing-olabosoye) or bleznolap@gmail.com
 
